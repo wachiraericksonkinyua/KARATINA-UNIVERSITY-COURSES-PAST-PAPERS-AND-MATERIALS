@@ -1,0 +1,7 @@
+
+msg+="-----------------\n";
+JOptionPane.showMessageDialog(this,msg+"Total: "+amount);
+}
+public static void main(String[] args) {
+new CheckBoxExample3();
+}
